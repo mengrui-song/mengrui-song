@@ -1,24 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mengrui Song</h1>
-<h3 align="center">A passionate full-stack developer based in Tokyo</h3>
+<h3 align="center">Full-stack developer based in Tokyo</h3>
 
-- 🧘‍♀️ I’m currently working on [Yoga-Flashcard] to help me memorize yoga poses in Sanskrit(https://github.com/mengrui-song/yoga-flashcard)
 
-- 🌱 I’m currently learning **JavaScript Advanced Concepts**
+📫 mengrui.song17@gmail.com
 
-- 👨‍💻 All of my personal projects are available at [https://song-mengrui.netlify.app/](https://song-mengrui.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@mengrui.song](https://medium.com/@mengrui.song)
-
-- 💬 Ask me about **Ruby on Rails and React**
-
-- 📫 How to reach me **mengrui.song17@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mengruisong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mengruisong/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <h3>Back-end</h6>
 
 <p align="left">
